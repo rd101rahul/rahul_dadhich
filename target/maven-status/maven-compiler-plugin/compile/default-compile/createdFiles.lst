@@ -1,0 +1,9 @@
+com\ratepay\test\validator\UserValidator.class
+com\ratepay\test\repository\UserRepository.class
+com\ratepay\test\SpringBootCodingChallenge.class
+com\ratepay\test\exception\UnknownUserException.class
+com\ratepay\test\service\UserService.class
+com\ratepay\test\exception\ValidationError.class
+com\ratepay\test\model\User.class
+com\ratepay\test\web\UserController.class
+com\ratepay\test\exception\RestExceptionHandler.class

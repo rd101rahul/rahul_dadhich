@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.ratepay.testcases.UserRegistraionCopy
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.07 s - in com.ratepay.testcases.UserRegistraionCopy
